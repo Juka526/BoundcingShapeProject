@@ -11,7 +11,7 @@ The Bouncing Shapes Application is a Java project that demonstrates the principl
 - **Event Handling:** The application includes basic event handling to manage user interactions.
 
 ## Project Structure
-The project consists of three main assignments, each building upon the previous to create the final application.
+The project consists of three main steps, each building upon the previous to create the final application.
 
 ### Step 1: Basic Text-Based Version
 - Implement a simple text-based version of the program.
